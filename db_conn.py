@@ -1,4 +1,3 @@
-from tokenize import Token
 
 import psycopg2
 import configparser
